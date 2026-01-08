@@ -5,9 +5,9 @@
 - 🌱 Exploring **Quantum Computing, Tensor Networks & LLMs**
 - 💻 7+ years in **Distributed Systems, Microservices, Java, Python**
 - 🏢 Previously at **PayPal** & **Otis Elevator**
-- 🎓 IIT Graduate | **Codeforces Specialist** | **CodeChef 4-Star**
+- 🎓 IIIT Graduate
 - 💬 Ask me about **Kafka, Kubernetes, High-scale Systems**
-- 📫 Reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/raushan-kumar-590449b7/)
+- 📫 Reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/raushan-singh-590449b7/)
 
 ---
 
