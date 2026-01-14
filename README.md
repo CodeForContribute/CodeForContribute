@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Raushan Singh
 
 - 🔭 Currently working on **Notification Microservices at Oracle**
-- 🚀 Building **[xQlusion](https://pauliq.ai)** - Quantum-inspired Fraud Detection & AML Platform
 - 🌱 Exploring **Quantum Computing, Tensor Networks & LLMs**
 - 💻 7+ years in **Distributed Systems, Microservices, Java, Python**
 - 🏢 Previously at **PayPal** & **Otis Elevator**
