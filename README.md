@@ -30,9 +30,7 @@
   
 ## GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=CodeForContribute&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeForContribute&theme=github-light&hide_border=true&area=true" alt="Activity Graph" />
+<img src="https://ghchart.rshah.org/CodeForContribute" alt="GitHub Contribution Calendar" />
 
 ## What I'm Doing
 
