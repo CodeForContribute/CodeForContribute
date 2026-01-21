@@ -16,21 +16,18 @@
 ## Current Projects
 
 * 🔮 **[xQlusion](https://github.com/CodeForContribute/fraud-detection-tensor-network-based)** - Quantum-inspired fraud detection & AML platform using tensor networks
-* 🤖 **[pr-review-agentic-workflow](https://github.com/CodeForContribute/pr-review-agentic-workflow)** - Agentic workflow for AI-powered code review
-* 📋 **[flextask](https://github.com/CodeForContribute/flextask)** - Task orchestration platform with TypeScript
-* 🐔 **[poultry-platform](https://github.com/CodeForContribute/poultry-platform)** - Java-based poultry management system
 * ₿ **[bitcoin_fraud_detection](https://github.com/CodeForContribute/bitcoin_fraud_detection)** - AML detection in Bitcoin blockchain
-* 🌐 **[CodeForContribute.github.io](https://codeforcontribute.github.io/)** - Personal portfolio website
+* 🤖 **[pr-review-agentic-workflow](https://github.com/CodeForContribute/pr-review-agentic-workflow)** - Agentic workflow for AI-powered code review
+* 🐔 **[poultry-platform](https://github.com/CodeForContribute/poultry-platform)** - Java-based poultry management system
+* 📋 **[flextask](https://github.com/CodeForContribute/flextask)** - Task orchestration platform with TypeScript
 * 📊 **[tensor-portfolio](https://github.com/CodeForContribute/tensor-portfolio)** - Portfolio optimization using tensor networks for Indian markets
-* 🔧 **[everything-claude-code](https://github.com/CodeForContribute/everything-claude-code)** - Claude Code configuration collection - agents, skills, hooks, MCPs
-* ✅ **[todo-app](https://github.com/CodeForContribute/todo-app)** - Clean JavaScript todo application
 
 ## Past Work
 
 * 💳 **PayPal** - Payment systems, fraud detection, backend services (2021-2024)
 * 🛗 **Otis Elevator** - IoT systems, elevator monitoring platforms (2018-2021)
-* 🏆 **Competitive Programming** - Codeforces Specialist, CodeChef 4-Star
-
+* 🏆 **Competitive Programming** - LeetCode
+  
 ## GitHub Activity
 
 <img src="https://github-readme-stats.vercel.app/api?username=CodeForContribute&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
@@ -61,9 +58,7 @@
 
 ## Recognition
 
-* 🎓 IIIT Graduate - Computer Science
-* ⭐ Codeforces Specialist Rating
-* ⭐ CodeChef 4-Star Rating
+* 🎓 IIIT Graduate
 * 📦 159 repositories on GitHub
 
 ## Philosophy
