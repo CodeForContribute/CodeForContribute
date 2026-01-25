@@ -16,11 +16,11 @@
 ## Current Projects
 
 * 🔮 **[xQlusion](https://github.com/CodeForContribute/fraud-detection-tensor-network-based)** - Quantum-inspired fraud detection & AML platform using tensor networks
+* 📊 **[tensor-portfolio](https://github.com/CodeForContribute/tensor-portfolio)** - Portfolio optimization using tensor networks for Indian markets
 * ₿ **[bitcoin_fraud_detection](https://github.com/CodeForContribute/bitcoin_fraud_detection)** - AML detection in Bitcoin blockchain
 * 🤖 **[pr-review-agentic-workflow](https://github.com/CodeForContribute/pr-review-agentic-workflow)** - Agentic workflow for AI-powered code review
 * 🐔 **[poultry-platform](https://github.com/CodeForContribute/poultry-platform)** - Java-based poultry management system
 * 📋 **[flextask](https://github.com/CodeForContribute/flextask)** - Task orchestration platform with TypeScript
-* 📊 **[tensor-portfolio](https://github.com/CodeForContribute/tensor-portfolio)** - Portfolio optimization using tensor networks for Indian markets
 
 ## Past Work
 
