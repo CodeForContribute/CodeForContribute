@@ -20,7 +20,7 @@
 * ₿ **[bitcoin_fraud_detection](https://github.com/CodeForContribute/bitcoin_fraud_detection)** - AML detection in Bitcoin blockchain
 * 🤖 **[pr-review-agentic-workflow](https://github.com/CodeForContribute/pr-review-agentic-workflow)** - Agentic workflow for AI-powered code review
 * 🐔 **[poultry-platform](https://github.com/CodeForContribute/poultry-platform)** - Java-based poultry management system
-* 📋 **[flextask](https://github.com/CodeForContribute/flextask)** - Task orchestration platform with TypeScript
+* 📋 **[flowforge](https://github.com/CodeForContribute/flowforge)** - Task orchestration platform with TypeScript
 
 ## Past Work
 
@@ -57,7 +57,6 @@
 ## Recognition
 
 * 🎓 IIIT Graduate
-* 📦 159 repositories on GitHub
 
 ## Philosophy
 
