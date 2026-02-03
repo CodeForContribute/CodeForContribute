@@ -16,20 +16,10 @@
 ## Current Projects
 
 * 🚀 **[flowforge](https://github.com/CodeForContribute/flowforge)** - TypeScript task orchestration platform using AI agents
-  ![Stars](https://img.shields.io/github/stars/CodeForContribute/flowforge?style=flat-square) ![License](https://img.shields.io/github/license/CodeForContribute/flowforge?style=flat-square)
-
 * ₿ **[bitcoin_fraud_detection](https://github.com/CodeForContribute/bitcoin_fraud_detection)** - GNN-based illicit transaction detection in Bitcoin blockchain
-  ![Stars](https://img.shields.io/github/stars/CodeForContribute/bitcoin_fraud_detection?style=flat-square) ![License](https://img.shields.io/github/license/CodeForContribute/bitcoin_fraud_detection?style=flat-square)
-
 * 🤖 **[pr-review-agentic-workflow](https://github.com/CodeForContribute/pr-review-agentic-workflow)** - Multi-agent code review system
-  ![Stars](https://img.shields.io/github/stars/CodeForContribute/pr-review-agentic-workflow?style=flat-square) ![License](https://img.shields.io/github/license/CodeForContribute/pr-review-agentic-workflow?style=flat-square)
-
 * 📱 **[flowly](https://github.com/CodeForContribute/flowly)** - JavaScript productivity application
-  ![Stars](https://img.shields.io/github/stars/CodeForContribute/flowly?style=flat-square) ![License](https://img.shields.io/github/license/CodeForContribute/flowly?style=flat-square)
-
 * 🐔 **[poultry-platform](https://github.com/CodeForContribute/poultry-platform)** - Java-based poultry management system
-  ![Stars](https://img.shields.io/github/stars/CodeForContribute/poultry-platform?style=flat-square) ![License](https://img.shields.io/github/license/CodeForContribute/poultry-platform?style=flat-square)
-
 * 🌐 **[Portfolio](https://github.com/CodeForContribute/CodeForContribute.github.io)** - Personal portfolio website
 
 ## Past Work
@@ -37,17 +27,6 @@
 * 💳 **PayPal** - Payment systems, fraud detection, backend services (2021-2024)
 * 🛗 **Otis Elevator** - IoT systems, elevator monitoring platforms (2018-2021)
 * 🏆 **Competitive Programming** - LeetCode
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeForContribute&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeForContribute&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeForContribute&layout=compact&theme=dark" alt="Top Languages" />
-</p>
 
 ## GitHub Activity
 
