@@ -15,26 +15,27 @@
 
 ## Current Projects
 
-* 🔮 **[xQlusion](https://github.com/CodeForContribute/fraud-detection-tensor-network-based)** - Quantum-inspired fraud detection & AML platform using tensor networks
-* 📊 **[tensor-portfolio](https://github.com/CodeForContribute/tensor-portfolio)** - Portfolio optimization using tensor networks for Indian markets
-* ₿ **[bitcoin_fraud_detection](https://github.com/CodeForContribute/bitcoin_fraud_detection)** - AML detection in Bitcoin blockchain
-* 🤖 **[pr-review-agentic-workflow](https://github.com/CodeForContribute/pr-review-agentic-workflow)** - Agentic workflow for AI-powered code review
+* 🚀 **[flowforge](https://github.com/CodeForContribute/flowforge)** - TypeScript task orchestration platform using AI agents
+* ₿ **[bitcoin_fraud_detection](https://github.com/CodeForContribute/bitcoin_fraud_detection)** - GNN-based illicit transaction detection in Bitcoin blockchain
+* 🤖 **[pr-review-agentic-workflow](https://github.com/CodeForContribute/pr-review-agentic-workflow)** - Multi-agent code review system
+* 📱 **[flowly](https://github.com/CodeForContribute/flowly)** - JavaScript productivity application
 * 🐔 **[poultry-platform](https://github.com/CodeForContribute/poultry-platform)** - Java-based poultry management system
-* 📋 **[flowforge](https://github.com/CodeForContribute/flowforge)** - Task orchestration platform with TypeScript
+* 🌐 **[Portfolio](https://github.com/CodeForContribute/CodeForContribute.github.io)** - Personal portfolio website
 
 ## Past Work
 
 * 💳 **PayPal** - Payment systems, fraud detection, backend services (2021-2024)
 * 🛗 **Otis Elevator** - IoT systems, elevator monitoring platforms (2018-2021)
 * 🏆 **Competitive Programming** - LeetCode
-  
+
 ## GitHub Activity
 
 <img src="https://ghchart.rshah.org/CodeForContribute" alt="GitHub Contribution Calendar" />
 
 ## What I'm Doing
 
-* **Living in tensor networks** - Learning and building quantum-inspired algorithms for fintech
+* **Building AI agent systems** - Task orchestration platforms and multi-agent workflows
+* **Blockchain fraud detection** - GNN-based approaches for illicit transaction detection
 * **Writing about AI workflows** - Documenting learnings on agentic systems
 * **Rapid prototyping** - Full apps in days, not months
 * **Building at scale** - 400k+ requests/day notification microservices at Oracle
@@ -57,16 +58,18 @@
 ## Recognition
 
 * 🎓 IIIT Graduate
+* 🏆 Arctic Code Vault Contributor
+* 📦 152 repositories on GitHub
 
 ## Philosophy
 
-> **"Learn fast && Build fast !!"** - I build tools to solve my own problems, then share them with the world. Currently exploring how quantum-inspired algorithms and AI agents can revolutionize software development.
+> **"Learn fast && Build fast !!"** - I build tools to solve my own problems, then share them with the world. Currently exploring AI agents, task orchestration platforms, and how they can revolutionize software development workflows.
 
 <details>
 <summary>► Random Facts</summary>
 
-* 🔬 Fascinated by quantum error correction and topological quantum field theory
-* 📊 Building production-grade tensor network implementations
+* 🔬 Fascinated by AI agents and task orchestration systems
+* 📊 Building GNN-based fraud detection systems
 * 🎯 7+ years of backend engineering experience
 * ☕ Powered by mass amounts of chai and curiosity
 * 🌏 Based in Bangalore, building for the world
