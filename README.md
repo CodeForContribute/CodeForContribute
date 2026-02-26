@@ -11,7 +11,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-> Deep in distributed systems mode – building notification microservices handling 400k+ daily requests at Oracle. After 7+ years shipping production systems at PayPal & Otis, now exploring where quantum computing meets financial intelligence. Building tools that solve real problems.
+> Deep in distributed systems mode – building notification microservices. After 7+ years shipping production systems at Oracle,PayPal & Otis, now exploring where quantum computing meets financial intelligence. Building tools that solve real problems.
 
 ## Current Projects
 
@@ -38,7 +38,6 @@
 * **Blockchain fraud detection** - GNN-based approaches for illicit transaction detection
 * **Writing about AI workflows** - Documenting learnings on agentic systems
 * **Rapid prototyping** - Full apps in days, not months
-* **Building at scale** - 400k+ requests/day notification microservices at Oracle
 
 ## Tech Expertise
 
