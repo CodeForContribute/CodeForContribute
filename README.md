@@ -11,7 +11,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-> Deep in distributed systems mode – building notification microservices. After 7+ years shipping production systems at Oracle,PayPal & Otis, now exploring where quantum computing meets financial intelligence. Building tools that solve real problems.
+> Deep in distributed systems mode – building notification microservices. 8 years shipping production systems at Oracle,PayPal & Otis, now exploring where quantum computing meets financial intelligence. Building tools that solve real problems.
 
 ## Current Projects
 
@@ -53,12 +53,6 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:19raushaniiitu@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://codeforcontribute.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/CodeForContribute)
-
-## Recognition
-
-* 🎓 IIIT Graduate
-* 🏆 Arctic Code Vault Contributor
-* 📦 152 repositories on GitHub
 
 ## Philosophy
 
