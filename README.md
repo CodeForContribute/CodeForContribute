@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Senior Software Engineer · Real-Time Distributed Systems &amp; Applied AI</b><br>
-  <sub>📍 Bengaluru, India &nbsp;·&nbsp; 🎓 IIIT Una &nbsp;·&nbsp; ⚡ 7+ years shipping production systems</sub>
+  <sub>📍 Bengaluru, India &nbsp;·&nbsp; 🎓 IIIT Una &nbsp;·&nbsp; ⚡ 8 years shipping production systems</sub>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 ---
 
 > I build **low-latency, high-throughput distributed systems** — real-time messaging infrastructure,
-> event-driven microservices, and the platform plumbing underneath them. Seven years across
+> event-driven microservices, and the platform plumbing underneath them. Eight years across
 > **Oracle**, **PayPal**, and **Otis**, most recently architecting notification microservices serving
 > **400K+ daily requests** under strict SLAs. Lately: agentic AI tooling — RAG, vector DBs, and MCP
 > pointed at real operational problems.
@@ -49,7 +49,7 @@ Active contributor since Feb 2026 with **12 merged pull requests**: prompt histo
 ### 🔴 Oracle — Senior Software Engineer · Bengaluru
 `May 2024 – Apr 2026`
 
-- **AI on-call resolution agent** — multi-stage retrieval over Slack history (vector DB + RAG) → Jira/Confluence runbooks (MCP) → Grafana metrics → code search; ranks answers, replies in-thread, escalates to maintainers when confidence is low. Cut on-call toil and MTTR.
+- **AI on-call resolution agent** — multi-stage retrieval over Slack history (vector DB + RAG) → Jira/Confluence runbooks (MCP) → Grafana metrics → code search; ranks answers, replies in-thread, escalates to maintainers when confidence is low. Cut on-call toil and MTTR. *(Open-source reference implementation of the architecture: **[oncall-agent](https://github.com/CodeForContribute/oncall-agent)**.)*
 - **Notification platform at scale** — Java/Helidon microservices handling **400K+ daily requests**; **40% p99 latency reduction** via HttpClient 5.x migration, connection-pool tuning, buffering, and dynamic rate limiting. **140+ PRs across 4 repos in 22 months.**
 - **Payload transformation sidecar** — event-driven (Redis queue + Node.js sidecar, Java orchestration) for safe execution of untrusted user transformation logic at **99.9% uptime**; owned design doc → Helm → API schema → client.
 - **Real-time delivery** — WebSocket/SSE in-app messaging with connection lifecycle management, half-closed session GC, and session-duration histograms → **60% faster delivery**. Built the email channel end-to-end, taking the platform to **5 channels**.
@@ -112,6 +112,7 @@ Active contributor since Feb 2026 with **12 merged pull requests**: prompt histo
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
+| **[oncall-agent](https://github.com/CodeForContribute/oncall-agent)** | Agentic on-call resolution — Slack bot with a ReAct tool loop over RAG, MCP (Jira/Confluence, Grafana) and code search, with confidence-gated escalation | Python · LangGraph · Qdrant |
 | **[flowforge](https://github.com/CodeForContribute/flowforge)** | Automates the SDLC with AI agents — creates branches, writes code, raises PRs, handles review comments, auto-merges | TypeScript |
 | **[pr-review-agentic-workflow](https://github.com/CodeForContribute/pr-review-agentic-workflow)** | Autonomous multi-agent code review system | Python · LangGraph |
 | **[bitcoin_fraud_detection](https://github.com/CodeForContribute/bitcoin_fraud_detection)** | Graph Neural Networks + ensembles detecting illicit Bitcoin transactions on the Elliptic dataset | Python · PyTorch Geometric |
