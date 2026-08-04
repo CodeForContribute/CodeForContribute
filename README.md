@@ -34,9 +34,9 @@ Active contributor since Feb 2026 with **12 merged pull requests**: prompt histo
 
 | Company | Role | Location | Period |
 | :---: | :--- | :--- | :--- |
-| <img src="https://raw.githubusercontent.com/CodeForContribute/CodeForContribute/main/assets/logos/oracle-chip.png" alt="Oracle" height="28"> | Senior Software Engineer | Bengaluru | **May 2024 – Apr 2026** |
-| <img src="https://raw.githubusercontent.com/CodeForContribute/CodeForContribute/main/assets/logos/paypal-chip.png" alt="PayPal" height="28"> | Software Development Engineer II | Chennai | Jun 2021 – May 2024 |
-| <img src="https://raw.githubusercontent.com/CodeForContribute/CodeForContribute/main/assets/logos/otis-chip.png" alt="Otis Elevator (United Technologies)" height="28"> | Software Development Engineer I | Hyderabad | Jul 2018 – Jun 2021 |
+| <img src="https://raw.githubusercontent.com/CodeForContribute/CodeForContribute/develop/assets/logos/oracle-chip.png" alt="Oracle" height="28"> | Senior Software Engineer | Bengaluru | **May 2024 – Apr 2026** |
+| <img src="https://raw.githubusercontent.com/CodeForContribute/CodeForContribute/develop/assets/logos/paypal-chip.png" alt="PayPal" height="28"> | Software Development Engineer II | Chennai | Jun 2021 – May 2024 |
+| <img src="https://raw.githubusercontent.com/CodeForContribute/CodeForContribute/develop/assets/logos/otis-chip.png" alt="Otis Elevator (United Technologies)" height="28"> | Software Development Engineer I | Hyderabad | Jul 2018 – Jun 2021 |
 
 ---
 
