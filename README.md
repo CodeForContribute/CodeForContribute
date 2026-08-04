@@ -23,20 +23,6 @@
 
 ---
 
-## 📌 By the Numbers
-
-<table>
-<tr>
-<td align="center"><b>400K+</b><br><sub>daily requests served</sub></td>
-<td align="center"><b>40%</b><br><sub>p99 latency reduced</sub></td>
-<td align="center"><b>45% → 85%</b><br><sub>test coverage driven</sub></td>
-<td align="center"><b>200+</b><br><sub>PRs reviewed</sub></td>
-<td align="center"><b>500+</b><br><sub>LeetCode solved</sub></td>
-</tr>
-</table>
-
----
-
 ## 🌍 Open Source
 
 **[cline/cline](https://github.com/cline/cline)** — the leading open-source AI coding agent (**59K+ ⭐ · 6K+ forks**)
