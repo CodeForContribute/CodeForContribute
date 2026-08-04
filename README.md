@@ -32,30 +32,11 @@ Active contributor since Feb 2026 with **12 merged pull requests**: prompt histo
 
 ## 💼 Experience
 
-### 🔴 Oracle — Senior Software Engineer · Bengaluru
-`May 2024 – Apr 2026`
-
-- **AI on-call resolution agent** — multi-stage retrieval over Slack history (vector DB + RAG) → Jira/Confluence runbooks (MCP) → Grafana metrics → code search; ranks answers, replies in-thread, escalates to maintainers when confidence is low. Cut on-call toil and MTTR. *(Open-source reference implementation of the architecture: **[oncall-agent](https://github.com/CodeForContribute/oncall-agent)**.)*
-- **Notification platform at scale** — Java/Helidon microservices handling **400K+ daily requests**; **40% p99 latency reduction** via HttpClient 5.x migration, connection-pool tuning, buffering, and dynamic rate limiting. **140+ PRs across 4 repos in 22 months.**
-- **Payload transformation sidecar** — event-driven (Redis queue + Node.js sidecar, Java orchestration) for safe execution of untrusted user transformation logic at **99.9% uptime**; owned design doc → Helm → API schema → client.
-- **Real-time delivery** — WebSocket/SSE in-app messaging with connection lifecycle management, half-closed session GC, and session-duration histograms → **60% faster delivery**. Built the email channel end-to-end, taking the platform to **5 channels**.
-- **Caching backbone** — Redis/Valkey end-to-end: key prefixing, invalidation strategy, sidecar metrics, health probes, Valkey migration.
-- **Security & observability** — OAuth private scopes, IDCS integration, K8s security contexts, secret-expiry alerting; OpenTelemetry tracing, zone-level Prometheus metrics, on-call Grafana dashboards, zero-downtime releases across 5+ branches.
-
-### 💳 PayPal — Software Development Engineer II · Chennai
-`Jun 2021 – May 2024`
-
-- Built the **Data Lineage Orchestration Platform** (Java/Spring Boot + Spark) — **500+ ETL pipelines** serving **400M+ users**, with custom SQL parsers and graph traversal for dependency tracking.
-- ETL metadata extraction Oracle DB → Elasticsearch: **10K+ daily events, 70% throughput gain** via pooling, batching, async.
-- Lineage REST APIs with **sub-100ms** responses and multi-layer caching, serving **100+ downstream consumers**.
-- SQL query parser at **99.5% accuracy** on nested queries, powering automated impact analysis and compliance reporting.
-- Monitoring on GCP Stackdriver with automated anomaly detection — **MTTR down 45%**.
-
-### 🛗 Otis Elevator (United Technologies) — Software Development Engineer I · Hyderabad
-`Jul 2018 – Jun 2021`
-
-- Real-time video streaming system (Python + Twilio SDK) across **500+ buildings** → **40% faster emergency response**.
-- Secure microservices over TLS/ZMQ and an Azure IoT Hub pipeline handling **100K+ daily device messages at 99.8% delivery**.
+| Company | Role | Location | Period |
+| :--- | :--- | :--- | :--- |
+| 🔴 **Oracle** | Senior Software Engineer | Bengaluru | **May 2024 – Apr 2026** |
+| 💳 **PayPal** | Software Development Engineer II | Chennai | Jun 2021 – May 2024 |
+| 🛗 **Otis Elevator** (United Technologies) | Software Development Engineer I | Hyderabad | Jul 2018 – Jun 2021 |
 
 ---
 
